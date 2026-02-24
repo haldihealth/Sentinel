@@ -269,7 +269,7 @@ actor MedGemmaEngine {
 
         Logger.ai.warning("📊 MedGemma Risk Assessment Complete")
         Logger.ai.info("   -> Raw Output: \(output.replacingOccurrences(of: "\n", with: " "))")
-        Logger.ai.info("   -> Assessed Tier: \(response.assessedRisk?.rawValue.uppercased() ?? "UNKNOWN")")
+        Logger.ai.info("   -> Assessed Tier: \(response.assessedRisk.map { String(describing: $0).uppercased() } ?? "UNKNOWN")")
         
         return response
     }
