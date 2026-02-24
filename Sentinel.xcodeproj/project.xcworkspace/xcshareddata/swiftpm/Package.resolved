@@ -1,0 +1,24 @@
+{
+  "originHash" : "928914e7bb648a922366345f0a0ee7d388b7b93f40d01098326ba7cc86c1a334",
+  "pins" : [
+    {
+      "identity" : "llm.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/haldihealth/LLM.swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "bf76e92d141848a64655942f5c86780f7bfbd930"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "4799286537280063c85a32f09884cfbca301b1a1",
+        "version" : "602.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}

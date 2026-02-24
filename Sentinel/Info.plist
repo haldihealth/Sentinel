@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Sentinel uses Face ID to keep your data secure and prevent unauthorized access.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Sentinel needs camera access to record your mission briefing videos for the Hope Box.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Sentinel needs microphone access to record audio for your mission briefing videos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Sentinel needs photo library access to add reinforcement photos and videos to your Hope Box.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Sentinel needs permission to save recorded videos to your photo library.</string>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+</dict>
+</plist>

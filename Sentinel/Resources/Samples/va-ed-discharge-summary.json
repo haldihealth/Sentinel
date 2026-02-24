@@ -1,0 +1,21 @@
+{
+    "resourceType": "Composition",
+    "status": "final",
+    "type": {
+        "text": "Discharge Summary"
+    },
+    "subject": {
+        "display": "John Doe"
+    },
+    "date": "2024-02-08T10:00:00Z",
+    "author": [
+        {
+            "display": "Dr. Smith, Psychiatric Unit"
+        }
+    ],
+    "title": "Hospital Discharge Summary",
+    "text": {
+        "status": "generated",
+        "div": "<div><h1>Discharge Summary</h1><p><strong>Diagnosis:</strong> Major Depressive Disorder, recurrent, severe without psychotic features.</p><p><strong>Hospitalization Course:</strong> Patient admitted following a crisis event. Responded well to medication adjustment (Sertraline increased to 100mg) and intensive group therapy. Risk assessment at discharge indicates stable mood with no active suicidal ideation, but history of impulsive behavior is noted.</p><p><strong>Follow-up Plan:</strong> Weekly outpatient therapy and safety planning. Patient advised to use Sentinel app for daily monitoring.</p><p><strong>Flags:</strong> High risk of relapse during first 30 days post-discharge. Recommend close monitoring of sleep patterns and social withdrawal.</p></div>"
+    }
+}
