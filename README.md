@@ -1,7 +1,7 @@
 # Sentinel
 **On-device AI for continuous suicide risk monitoring in veterans between clinical encounters.**
 
-[📹 Demo Video](LINK_TO_VIDEO) | [📄 Full Write-Up](WriteUp.md) | [📊 Benchmark Notebook](https://www.kaggle.com/code/sammydman/sentinel) ---
+| [📄 Full Write-Up](WriteUp.md) | [📊 Benchmark Notebook](https://www.kaggle.com/code/sammydman/sentinel) ---
 
 ## 🚨 The Problem
 Two-thirds of veterans who die by suicide were seen by a healthcare provider within the last 30 days. The warning signs emerge in the "grey zone" between clinical encounters where no provider can detect them.
@@ -88,7 +88,6 @@ Complete the initial setup. No real personal data is required; you can enter dum
 * **References:** [REFERENCES.md](REFERENCES.md)
 * **Architecture Guide:** [ARCHITECTURE.md](ARCHITECTURE.md)
 * **Benchmark Notebook:** [Kaggle Notebook](https://www.kaggle.com/code/sammydman/sentinel)
-* **Demo Video:** [YouTube/Vimeo Link](LINK_TO_VIDEO)
 * **Custom LLM Fork:** [GitHub](https://github.com/haldihealth/LLM.swift)
 
 ## 📄 License
